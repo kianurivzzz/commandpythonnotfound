@@ -7,12 +7,12 @@
 ## Содержание:
 
 1. [Почему возникает эта ошибка?](https://github.com/kianurivzzz/commandpythonnotfound#%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D0%B5%D1%82-%D1%8D%D1%82%D0%B0-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0);
-2. [Как исправить эту ошибку?](https://github.com/kianurivzzz/commandpythonnotfound#%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%8D%D1%82%D1%83-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D1%83);
-* [Python не установлен (Windows/MacOS/Linux)](https://github.com/kianurivzzz/commandpythonnotfound#python-%D0%BD%D0%B5-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD-windowsmacoslinux);
-* [Если Python точно установлен](https://github.com/kianurivzzz/commandpythonnotfound#%D0%B5%D1%81%D0%BB%D0%B8-python-%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD);
-* [Правильная переустановка](https://github.com/kianurivzzz/commandpythonnotfound#%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0);
+2. [Как исправить эту ошибку?](https://github.com/kianurivzzz/commandpythonnotfound#%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%8D%D1%82%D1%83-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D1%83):
+    * [Python не установлен (Windows/MacOS/Linux)](https://github.com/kianurivzzz/commandpythonnotfound#python-%D0%BD%D0%B5-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD-windowsmacoslinux);
+    * [Если Python точно установлен](https://github.com/kianurivzzz/commandpythonnotfound#%D0%B5%D1%81%D0%BB%D0%B8-python-%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD);
+    * [Правильная переустановка](https://github.com/kianurivzzz/commandpythonnotfound#%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0).
 3. [Заключение](https://github.com/kianurivzzz/commandpythonnotfound#%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5);
-4. [Полезные ссылки](https://github.com/kianurivzzz/commandpythonnotfound#%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8);
+4. [Полезные ссылки](https://github.com/kianurivzzz/commandpythonnotfound#%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8).
 
 ## Почему возникает эта ошибка?
 
@@ -27,13 +27,13 @@
 
 ![PATH](/img/path.png)
 
-Чаще всего все исполняемые файлы автоматически сохраняются в эту переменную. Но если этого не произошло,то оболочка терминала будет не в курсе о существовании этого инструмента.
+Чаще всего все исполняемые файлы автоматически сохраняются в эту переменную. Но если этого не произошло, то оболочка терминала будет не в курсе о существовании этого инструмента.
 
 В случае с Python это происходит по причине неправильной установки.
 
 ## Как исправить эту ошибку?
 
-Ниже приведу примеры исправления разных ситуаций. Обращаю внимание, что в дальйнешем все команды будут указаны без символа разделителя $, так как в терминале он стоит в каждой строке.
+Ниже приведу примеры исправления разных ситуаций. Обращаю внимание, что в дальйнешем **все команды будут указаны без символа разделителя $**, так как в терминале он стоит в каждой строке.
 
 ### Python не установлен (Windows/MacOS/Linux)
 
@@ -49,7 +49,7 @@ Windows/MacOS no brew/Linux:
 2. Наведите мышкой на вкладку Downloads;
 3. Скачайте последнюю версию или выберите другую, но актуальную;
 4. Запустите установочный файл;
-5. В нижней части установщика поставьте галочку в чекбоксе "Add Python to PATH" и нижмите далее;
+5. В нижней части установщика поставьте галочку в чекбоксе "Add Python to PATH" и нажмите далее;
 6. Дождитесь установки и проверьте работу команд.
 
 MacOS brew/Linux on terminal:
@@ -64,7 +64,8 @@ brew install python
 # для Debian-подобных Linux систем
 sudo apt-get install python
 ```
-2. Проверить работу команд Python.
+2. Нажмите enter;
+3. Проверить работу команд Python.
 
 ### Если Python точно установлен
 
@@ -114,9 +115,11 @@ PATH="$PATH:/usr/local/bin/python"
 
 ## Заключение.
 
-В ходе данного гайда стало известно, что причина ошибки "имя 'python ' не распознано как имя командлета..." либо отсутствие Python, либо его неправильная установка. Способов решения этих проблем было несколько: установка, переустановка или танцы с бубном в терминале.
+В ходе данного гайда стало известно, что причина ошибки "имя 'python' не распознано как имя командлета..." либо отсутствие Python, либо его неправильная установка. Способов решения этих проблем было несколько: установка, переустановка или танцы с бубном в терминале.
 
 На этом всё. Если есть вопросы, предложения, исправления, то сразу об этом напишите. На вопросы будет отвечено, предложения рассмотрены, а исправления исправлены.
+
+[Вернуться к содержанию](https://github.com/kianurivzzz/commandpythonnotfound#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 
 ## Полезные ссылки
 
