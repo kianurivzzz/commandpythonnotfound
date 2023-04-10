@@ -65,7 +65,7 @@ brew install python
 sudo apt-get install python
 ```
 2. Нажмите enter;
-3. Проверить работу команд Python.
+3. Проверьте работу команд Python.
 
 ### Если Python точно установлен
 
