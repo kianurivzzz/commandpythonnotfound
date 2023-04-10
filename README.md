@@ -52,7 +52,7 @@
 5. В нижней части установщика поставьте галочку в чекбоксе "Add Python to PATH" и нажмите далее;
 6. Дождитесь установки и проверьте работу команд.
 
-MacOS brew/Linux on terminal:
+**MacOS brew/Linux on terminal:**
 
 ![Terminal](/img/install_py_on_brew.png)
 
