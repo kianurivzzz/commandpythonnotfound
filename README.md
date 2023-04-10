@@ -40,7 +40,7 @@
 Решение этой проблемы – установить Python.
 
 
-Windows/MacOS no brew/Linux:
+**Windows/MacOS no brew/Linux:**
 
 
 ![Python Site](/img/python_site.png)
