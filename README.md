@@ -1,10 +1,18 @@
-# Если не работает команда 'python3' или 'python' или 'py'
-
-## Или 'pip'
+# Если не работают команды 'python3', 'python', 'py', 'pip', 'pip3'
 
 ![example error](img/error_2.png)
 
 Начинающие разработчики часто встречаются с ошибкой говорящей о том, что команд 'python' или 'pip' не существует. Ниже расскажу о причинах возникновения этой ошибки и как её исправить.
+
+## Содержание:
+
+1. [Почему возникает эта ошибка?](https://github.com/kianurivzzz/commandpythonnotfound#%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D0%B5%D1%82-%D1%8D%D1%82%D0%B0-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0);
+2. [Как исправить эту ошибку?](https://github.com/kianurivzzz/commandpythonnotfound#%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%8D%D1%82%D1%83-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D1%83);
+* [Python не установлен (Windows/MacOS/Linux)](https://github.com/kianurivzzz/commandpythonnotfound#python-%D0%BD%D0%B5-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD-windowsmacoslinux);
+* [Если Python точно установлен](https://github.com/kianurivzzz/commandpythonnotfound#%D0%B5%D1%81%D0%BB%D0%B8-python-%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD);
+* [Правильная переустановка](https://github.com/kianurivzzz/commandpythonnotfound#%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0);
+3. [Заключение](https://github.com/kianurivzzz/commandpythonnotfound#%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5);
+4. [Полезные ссылки](https://github.com/kianurivzzz/commandpythonnotfound#%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8);
 
 ## Почему возникает эта ошибка?
 
